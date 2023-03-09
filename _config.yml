@@ -21,7 +21,7 @@
 title: Resume
 email: kashyapk@myumanitoba.ca
 description: >- # this means to ignore newlines until "baseurl:"
- This is a professional website built using Jekyll, published on Github Pages.
+ Website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
